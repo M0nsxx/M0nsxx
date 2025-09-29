@@ -6,18 +6,6 @@
   </h2>
 </div>
 
-<div align="center">
-  <img src="https://github.com/M0nsxx/M0nsxx/assets/wave-animation.gif" alt="Wave Animation" width="100" />
-  <img src="https://github.com/M0nsxx/M0nsxx/assets/star-animation.gif" alt="Star Animation" width="80" />
-  <img src="https://github.com/M0nsxx/M0nsxx/assets/heart-animation.gif" alt="Heart Animation" width="60" />
-</div>
-
-<div align="center">
-  <h3 style="color: #FF6B9D; font-size: 24px; animation: pulse 2s infinite;">
-    🏆 ETH Uruguay 2025 Winner | 🌟 Women in Web3 Leader | 🚀 Hackathon Champion
-  </h3>
-</div>
-
 ---
 
 ## 💫 About Me
