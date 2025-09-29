@@ -252,11 +252,6 @@ contract SecureVault {
 - **⚡ Rapid Development**: Hackathon expertise
 - **🌐 Multi-chain**: Ethereum, Arbitrum, Optimism, Base, Monad
 
-### 📧 Contact
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-pink?style=for-the-badge&logo=gmail)](mailto:contact@m0nsxx.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/m0nsxx)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/m0nsxx)
-
 </div>
 
 ---
