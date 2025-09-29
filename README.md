@@ -1,21 +1,25 @@
 # 🌟 M0nsxx - Blockchain & Web3 Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=🚀+Blockchain+Developer;💎+DeFi+Architect;🌐+Web3+Innovator;⚡+Smart+Contract+Expert;🎯+DAO+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=🚀+Blockchain+Enthusiast;🏆+ETH+Uruguay+2025+Winner;💎+Women+in+Web3+Leader;🌐+Hackathon+Champion;⚡+Multi-chain+Builder;🎯+LATAM+Representative" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/M0nsxx/M0nsxx/assets/wave-animation.gif" alt="Wave Animation" width="100" />
 </div>
 
 ---
 
-## 💫 Sobre Mí
+## 💫 About Me
 
-¡Hola! Soy **M0nsxx**, una desarrolladora blockchain senior con más de 20 años de experiencia en el ecosistema Web3. Mi pasión es construir el futuro descentralizado a través de tecnología blockchain innovadora y soluciones DeFi revolucionarias.
+Hello! I'm **M0nsxx**, a passionate blockchain enthusiast with practical experience in hackathons and Web3 development. I have actively participated in building the Latin American blockchain ecosystem through multiple projects and competitions.
 
 <div align="center">
   <img src="https://github.com/M0nsxx/M0nsxx/assets/your-avatar.gif" alt="M0nsxx Avatar" width="200" style="border-radius: 50%; border: 3px solid #FF6B9D; box-shadow: 0 0 20px rgba(255, 107, 157, 0.5);" />
 </div>
 
-### 🎯 Mi Misión
-Transformar ideas visionarias en realidades blockchain, creando ecosistemas descentralizados que empoderen a las comunidades y revolucionen las finanzas tradicionales.
+### 🎯 My Mission
+Transform visionary ideas into blockchain realities, creating decentralized ecosystems that empower communities and revolutionize traditional finance, with a special focus on women's inclusion in Web3.
 
 ---
 
@@ -46,42 +50,25 @@ Transformar ideas visionarias en realidades blockchain, creando ecosistemas desc
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 💎 [AstarPass](https://github.com/M0nsxx/AstarPass)
+### 🏆 [ActivaChain.com](https://github.com/M0nsxx/ActivaChain)
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-Authentication-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain-Astar-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Winner%20ETH%20Uruguay%202025-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Women%20Empowerment-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain-Web3%20Social-blue?style=for-the-badge" />
 </div>
 
-**Sistema de autenticación descentralizado** que revoluciona la identidad digital en el ecosistema Astar. Implementa protocolos de verificación avanzados y gestión de credenciales blockchain.
+**Co-founder of Web3 platform** dedicated to empowering women in blockchain. **Winner of ETH Uruguay 2025**. Addresses the critical gender gap where only 13% of Web3 founding teams include women and just 3% are exclusively female teams. Provides education, networking, and tools to facilitate female incorporation into the decentralized ecosystem.
 
-`mermaid
-graph TD
-    A[Usuario] --> B[AstarPass]
-    B --> C[Verificación Blockchain]
-    C --> D[Credenciales Descentralizadas]
-    D --> E[Acceso a DApps]
-`
-
-### 🌊 [PakalFi](https://github.com/M0nsxx/PakalFi)
+### 🌊 [PakalFi.com](https://github.com/M0nsxx/PakalFi)
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Hackathon%20Project-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Type-DeFi-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Event-Monad%20Mobil3%20CDMX-purple?style=for-the-badge" />
 </div>
 
-**Protocolo DeFi innovador** construido con TypeScript, ofreciendo yield farming, staking y pools de liquidez con algoritmos de optimización avanzados.
-
-### ⚡ [ActivaChain](https://github.com/M0nsxx/ActivaChain)
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-Blockchain-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge" />
-</div>
-
-**Infraestructura blockchain personalizada** con protocolos de consenso optimizados y capacidades de interoperabilidad cross-chain.
+**Project developed during Monad Mobil3 hackathon** in CDMX, demonstrating ability to build solutions under pressure in competitive environments. Showcases rapid development skills and multichain experience.
 
 ---
 
@@ -131,62 +118,89 @@ contract SecureVault {
 
 ---
 
-## 🎯 Certificaciones & Logros
+## 🏆 Hackathon Achievements
 
 <div align="center">
 
-| Certificación | Organización | Año |
-|---------------|--------------|-----|
-| 🏆 **Blockchain Developer Certification** | Ethereum Foundation | 2023 |
-| 🥇 **DeFi Protocol Specialist** | ConsenSys Academy | 2023 |
-| 🎖️ **Smart Contract Security Auditor** | OpenZeppelin | 2022 |
-| 🏅 **Web3 Full Stack Developer** | Alchemy University | 2022 |
+| Event | Location | Achievement | Date |
+|-------|----------|-------------|------|
+| 🥇 **ETH Uruguay 2025** | Montevideo | **Winner with ActivaChain** | Sep 5-12, 2025 |
+| 🚀 **ETH 5 de Mayo 2024** | Puebla/CDMX | 650+ developers, 30 countries | May 2024 |
+| ⚡ **Monad Mobil3** | CDMX | PakalFi development | 2024 |
+
+</div>
+
+## 🎯 Competition Track Record
+
+<div align="center">
+
+| Achievement | Impact |
+|-------------|--------|
+| 🏆 **ETH Uruguay 2025 Winner** | International competition victory |
+| 🌍 **Global Competition** | Competed against 30+ countries |
+| 👥 **Women's Leadership** | Leading female inclusion in Web3 |
+| 🚀 **Rapid Development** | 48-hour hackathon experience |
 
 </div>
 
 ---
 
-## 🌟 Filosofía de Desarrollo
+## 🌟 Development Philosophy
 
-> *"La tecnología blockchain no es solo código, es la base de un nuevo paradigma social donde la confianza se construye matemáticamente y la descentralización empodera a las comunidades."*
+> *"Blockchain technology is not just code, it's the foundation of a new social paradigm where trust is built mathematically and decentralization empowers communities. I'm committed to bridging the gender gap in Web3 through practical action and proven results."*
 
-### 🎨 Principios de Diseño
-- **✨ Elegancia**: Código limpio y arquitecturas elegantes
-- **🔒 Seguridad**: Auditoría exhaustiva y mejores prácticas
-- **🌱 Escalabilidad**: Soluciones preparadas para el futuro
-- **🤝 Colaboración**: Desarrollo open-source y comunitario
+### 🎨 Design Principles
+- **✨ Elegance**: Clean code and elegant architectures
+- **🔒 Security**: Exhaustive auditing and best practices
+- **🌱 Scalability**: Future-ready solutions
+- **🤝 Collaboration**: Open-source and community development
+- **👩‍💻 Women's Inclusion**: Actively promoting female participation in Web3
 
 ---
 
-## 🚀 Próximos Proyectos
+## 🚀 Future Goals
 
 <div align="center">
 
-### 🎮 GameFi Revolution
-**Proyecto**: Plataforma de gaming descentralizada con NFTs y economía tokenizada
+### 🔐 Security Auditing
+**Goal**: Learn advanced security auditing strategies to bring projects to mainnet
 
-### 🏦 DeFi 2.0 Protocol
-**Proyecto**: Nueva generación de protocolos DeFi con algoritmos de IA
+### 💰 Women's Grants
+**Goal**: Discover grant funds specifically for women-led projects
 
-### 🌍 Cross-Chain Ecosystem
-**Proyecto**: Ecosistema interoperable multi-blockchain
+### 🤝 Global Partnerships
+**Goal**: Establish partnerships with other female inclusion initiatives in Web3
+
+### 📈 International Scaling
+**Goal**: Learn best practices to scale ActivaChain internationally
+
+### 🌐 Multi-chain Development
+**Goal**: Expand expertise across Ethereum, Arbitrum, Optimism, Base, and Monad ecosystems
 
 </div>
 
 ---
 
-## 🤝 Colaboración
+## 🤝 Collaboration
 
 <div align="center">
 
-### 💼 Oportunidades de Colaboración
+### 💼 Collaboration Opportunities
 - **🔗 Smart Contract Development**
 - **🌐 DeFi Protocol Architecture** 
 - **🏛️ DAO Governance Systems**
 - **🔐 Security Auditing**
 - **📱 Mobile DApp Development**
+- **👩‍💻 Women in Web3 Initiatives**
 
-### 📧 Contacto
+### 🎯 Why Work With Me
+- **🏆 Proven Track Record**: ETH Uruguay 2025 Winner
+- **🌍 International Experience**: Competed globally
+- **👥 Leadership**: Women's inclusion advocate
+- **⚡ Rapid Development**: Hackathon expertise
+- **🌐 Multi-chain**: Ethereum, Arbitrum, Optimism, Base, Monad
+
+### 📧 Contact
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-pink?style=for-the-badge&logo=gmail)](mailto:contact@m0nsxx.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/m0nsxx)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/m0nsxx)
@@ -195,15 +209,15 @@ contract SecureVault {
 
 ---
 
-## 🎉 Agradecimientos
+## 🎉 Acknowledgments
 
 <div align="center">
 
-*Gracias por visitar mi perfil. Juntos, construyamos el futuro descentralizado.* 
+*Thank you for visiting my profile. Together, let's build the decentralized future.* 
 
 <img src="https://github.com/M0nsxx/M0nsxx/assets/heart-animation.gif" alt="Heart Animation" width="50" />
 
-**¡Hagamos que la Web3 sea más accesible, segura y poderosa para todos!** 🌟
+**Let's make Web3 more accessible, secure, and powerful for everyone!** 🌟
 
 </div>
 
@@ -213,6 +227,6 @@ contract SecureVault {
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=100&section=footer&text=✨%20Building%20the%20Future%20of%20Web3%20✨&fontSize=20&fontColor=FFFFFF)
 
-**⭐ Si te gusta mi trabajo, ¡dale una estrella a mis repositorios! ⭐**
+**⭐ If you like my work, give a star to my repositories! ⭐**
 
 </div>
