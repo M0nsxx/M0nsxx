@@ -1,11 +1,19 @@
 # 🌟 M0nsxx - Blockchain & Web3 Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=🚀+Blockchain+Enthusiast;🏆+ETH+Uruguay+2025+Winner;💎+Women+in+Web3+Leader;🌐+Hackathon+Champion;⚡+Multi-chain+Builder;🎯+LATAM+Representative" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=🚀+Blockchain+Enthusiast;🏆+ETH+Uruguay+2025+Winner;💎+Women+in+Web3+Leader;🌐+Hackathon+Champion;⚡+Multi-chain+Builder;🎯+LATAM+Representative;👩‍💻+ActivaChain+Co-founder;🚀+Monad+Mobil3+Participant;💫+Web3+Innovator;🌟+Community+Builder" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://github.com/M0nsxx/M0nsxx/assets/wave-animation.gif" alt="Wave Animation" width="100" />
+  <img src="https://github.com/M0nsxx/M0nsxx/assets/star-animation.gif" alt="Star Animation" width="80" />
+  <img src="https://github.com/M0nsxx/M0nsxx/assets/heart-animation.gif" alt="Heart Animation" width="60" />
+</div>
+
+<div align="center">
+  <h3 style="color: #FF6B9D; font-size: 24px; animation: pulse 2s infinite;">
+    🏆 ETH Uruguay 2025 Winner | 🌟 Women in Web3 Leader | 🚀 Hackathon Champion
+  </h3>
 </div>
 
 ---
@@ -20,6 +28,18 @@ Hello! I'm **M0nsxx**, a passionate blockchain enthusiast with practical experie
 
 ### 🎯 My Mission
 Transform visionary ideas into blockchain realities, creating decentralized ecosystems that empower communities and revolutionize traditional finance, with a special focus on women's inclusion in Web3.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆+ETH+Uruguay+2025+Winner-brightgreen?style=for-the-badge&logo=trophy&logoColor=white" alt="ETH Uruguay Winner" />
+  <img src="https://img.shields.io/badge/👩‍💻+Women+in+Web3+Leader-pink?style=for-the-badge&logo=heart&logoColor=white" alt="Women in Web3" />
+  <img src="https://img.shields.io/badge/🚀+Hackathon+Champion-orange?style=for-the-badge&logo=rocket&logoColor=white" alt="Hackathon Champion" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌍+LATAM+Representative-blue?style=for-the-badge&logo=globe&logoColor=white" alt="LATAM Rep" />
+  <img src="https://img.shields.io/badge/⚡+Multi-chain+Builder-purple?style=for-the-badge&logo=lightning&logoColor=white" alt="Multi-chain" />
+  <img src="https://img.shields.io/badge/💎+ActivaChain+Co-founder-gold?style=for-the-badge&logo=star&logoColor=white" alt="ActivaChain" />
+</div>
 
 ---
 
