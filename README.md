@@ -1,7 +1,9 @@
 # 🌟 M0nsxx - Blockchain & Web3 Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=🚀+Blockchain+Enthusiast;🏆+ETH+Uruguay+2025+Winner;💎+Women+in+Web3+Leader;🌐+Hackathon+Champion;⚡+Multi-chain+Builder;🎯+LATAM+Representative;👩‍💻+ActivaChain+Co-founder;🚀+Monad+Mobil3+Participant;💫+Web3+Innovator;🌟+Community+Builder" alt="Typing SVG" />
+  <h2 style="color: #FF6B9D; font-size: 28px; margin: 20px 0;">
+    🚀 Blockchain Enthusiast | 🏆 ETH Uruguay 2025 Winner | 💎 Women in Web3 Leader
+  </h2>
 </div>
 
 <div align="center">
@@ -43,12 +45,12 @@ Transform visionary ideas into blockchain realities, creating decentralized ecos
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Technical Stack
 
 ### 🔗 Blockchain & Web3
 <div align="center">
 
-| Tecnología | Nivel | Proyectos |
+| Technology | Level | Projects |
 |------------|-------|-----------|
 | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) | ⭐⭐⭐⭐⭐ | Smart Contracts |
 | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ⭐⭐⭐⭐⭐ | Solana Development |
@@ -57,14 +59,25 @@ Transform visionary ideas into blockchain realities, creating decentralized ecos
 
 </div>
 
-### 🏗️ Desarrollo Full Stack
+### 🎨 UX/UI Design & Frontend
 <div align="center">
 
-| Frontend | Backend | DevOps |
-|----------|---------|--------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| Design Tools | Frontend | UI Frameworks |
+|--------------|----------|---------------|
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) |
+| ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) |
+
+</div>
+
+### 🏗️ Full Stack Development
+<div align="center">
+
+| Backend | Database | DevOps |
+|---------|----------|--------|
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 </div>
 
@@ -92,13 +105,24 @@ Transform visionary ideas into blockchain realities, creating decentralized ecos
 
 ---
 
-## 🎨 Especialidades Técnicas
+## 🎨 Technical Specialties
 
 <div align="center">
 
+### 🎨 UX/UI Design Excellence
+```css
+/* User-Centered Design Principles */
+.user-experience {
+  design-thinking: "Empathy → Define → Ideate → Prototype → Test";
+  accessibility: "WCAG 2.1 AA compliance";
+  responsive: "Mobile-first approach";
+  performance: "Core Web Vitals optimization";
+}
+```
+
 ### 🔐 Smart Contracts & Security
-`solidity
-// Ejemplo de contrato seguro
+```solidity
+// Secure contract example
 contract SecureVault {
     mapping(address => uint256) private balances;
     
@@ -107,18 +131,26 @@ contract SecureVault {
         balances[msg.sender] += msg.value;
     }
 }
-`
+```
 
-### 🌐 DeFi Protocols
-- **Yield Farming**: Algoritmos de optimización de rendimientos
-- **Liquidity Pools**: Gestión automática de liquidez
-- **Staking Mechanisms**: Protocolos de participación seguros
-- **Cross-chain Bridges**: Interoperabilidad entre blockchains
+### 🌐 DeFi Protocols & UX
+- **User-Friendly Interfaces**: Intuitive DeFi dashboards and trading interfaces
+- **Yield Farming UX**: Clear visualization of farming strategies and returns
+- **Liquidity Pool Management**: User-friendly interfaces for LP management
+- **Cross-chain UX**: Seamless multi-chain user experiences
 
-### 🏛️ DAO Governance
-- **Voting Systems**: Implementación de sistemas de votación descentralizados
-- **Token Economics**: Diseño de modelos económicos sostenibles
-- **Community Management**: Herramientas de gestión comunitaria
+### 🏛️ DAO Governance & Design
+- **Voting Interfaces**: Intuitive governance participation systems
+- **Token Economics Visualization**: Clear tokenomics and economic models
+- **Community Management Tools**: User-friendly community engagement platforms
+- **Accessibility**: Ensuring Web3 is accessible to all users
+
+### 🎯 UX/UI Specializations
+- **Web3 UX Design**: Specialized in blockchain user experience
+- **Mobile-First Design**: PWA and mobile DApp development
+- **Accessibility**: WCAG 2.1 AA compliance for inclusive design
+- **Design Systems**: Creating consistent UI component libraries
+- **User Research**: Conducting user interviews and usability testing
 
 </div>
 
