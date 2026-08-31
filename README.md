@@ -2,7 +2,7 @@
 
 Co-founder of three projects in the Stellar ecosystem:
 [Nirium](https://github.com/nirium-protocol/nirium-sdk),
-[Periplo](https://github.com/Eras256/Periplo), and Contextio.
+[Periplo](https://github.com/Eras256/Periplo), and [Contextio](https://github.com/contextio/Contextio).
 My role across all three is product and UX.
 
 ---
@@ -25,9 +25,9 @@ Nirium is an autonomous treasury and agentic-payments protocol (x402/MPP) for St
 
 x402 payment facilitator with Bazaar (discovery) for Stellar — SCF #45 Build Award submission. I co-founded the project and work on product/UX. As of today I have no PRs or issues under my GitHub handle in this repo; my contributions have been through pair sessions committed under the main account.
 
-### Contextio
+### Contextio — [`contextio/Contextio`](https://github.com/contextio/Contextio)
 
-Co-founded project. No public GitHub repo exists yet at the time of writing — I will update this section when one is published.
+Legal Context Protocol (LCP) on Stellar — verifiable, non-custodial legal context binding for autonomous treasury & payroll for LatAm SMEs (Stellar x CV Labs Accelerator submission). I co-founded the project and work on product/UX. As of today I have no PRs or issues under my GitHub handle in this repo; my contributions have been through design & strategy pair sessions.
 
 ---
 
