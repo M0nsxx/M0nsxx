@@ -2,7 +2,7 @@
 
 Cofounder, with [Giovanny](https://github.com/Eras256), of six projects
 across four chains — product, UX, and marketing on every one of them, and
-now shipping real code too (two merged PRs, detail below).
+now shipping real code too (five merged PRs, detail below).
 
 | Project(s) | Chain | Why there |
 | --- | --- | --- |
@@ -22,13 +22,14 @@ padded to look like something it isn't.
 
 Skip the rest if you only have 90 seconds:
 
-- **Two merged PRs in [`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium)** —
+- **Five merged PRs in [`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium)** —
   my own shipped code, not a design contribution described in code
-  terms: [#61](https://github.com/nirium-protocol/nirium/pull/61)
-  (resilient reconnecting WebSocket signals client) and
-  [#62](https://github.com/nirium-protocol/nirium/pull/62) (CLI
-  `pay`/`serve` commands for x402), each closing a real GrantFox bounty
-  issue, merged by [@Eras256](https://github.com/Eras256).
+  terms: a resilient reconnecting WebSocket signals client, CLI
+  `pay`/`serve` commands for x402, a one-click "Deploy to Vercel" x402
+  API template, a `nirium doctor` preflight diagnostic command, and a
+  standalone offline audit-CID/Ed25519 attestation verifier. Each closes
+  a real GrantFox bounty issue, all merged by [@Eras256](https://github.com/Eras256) —
+  full table below.
 - **Prova (cofounded) took 1st place in Mexico at the Dev3Pack Global
   Hackathon** and graduated WayLearn's Solana Foundation-backed Solana
   Latam Labs Program — full detail and links in the Prova row below.
@@ -43,12 +44,15 @@ Skip the rest if you only have 90 seconds:
 ### Merged PRs — [`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium)
 
 My own shipped code, not a design contribution described in code terms —
-both authored by me, merged by [@Eras256](https://github.com/Eras256), each
+all five authored by me, merged by [@Eras256](https://github.com/Eras256), each
 closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 
 | PR | Closes | Title | Merged |
 | --- | --- | --- | --- |
+| [#58](https://github.com/nirium-protocol/nirium/pull/58) | [#50](https://github.com/nirium-protocol/nirium/issues/50) | "Deploy to Vercel" one-click x402-protected API template | 2026-08-24 |
+| [#59](https://github.com/nirium-protocol/nirium/pull/59) | [#37](https://github.com/nirium-protocol/nirium/issues/37) | `nirium doctor` CLI preflight diagnostic command | 2026-08-25 |
 | [#61](https://github.com/nirium-protocol/nirium/pull/61) | [#45](https://github.com/nirium-protocol/nirium/issues/45) | Resilient reconnecting WebSocket signals client | 2026-08-25 |
+| [#60](https://github.com/nirium-protocol/nirium/pull/60) | [#38](https://github.com/nirium-protocol/nirium/issues/38) | Standalone offline audit-CID + Ed25519 attestation verifier | 2026-08-26 |
 | [#62](https://github.com/nirium-protocol/nirium/pull/62) | [#44](https://github.com/nirium-protocol/nirium/issues/44) | CLI `pay` and `serve` commands for x402 | 2026-08-26 |
 
 ---
@@ -61,7 +65,7 @@ closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 | **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | Product, UX, marketing | x402-metered on-chain risk intelligence for agents on Base. Currently under review for Base Batches. Source repo is private. |
 | **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | Product, UX, marketing | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. Built through two Colosseum hackathon cycles: [Prova](https://colosseum.com/arena/projects/explore/prova-1), and earlier [Oraculo](https://colosseum.com/arena/projects/explore/oraculo) at the Solana Cypherpunk Hackathon (Sep-Oct 2025), plus WayLearn's Solana Foundation-backed Solana Latam Labs Program (Jun-Aug 2026), taking 1st place in Mexico at the Dev3Pack Global Hackathon along the way. Applied for a Superteam/Solana Foundation scholarship to attend Breakpoint 2026 — decision pending. |
 | **[Periplo](https://github.com/Eras256/Periplo)** · [periplo.xyz](https://periplo.xyz) | Product & UX | x402 payment facilitator for Stellar with a "Bazaar" discovery catalog. Cofounded; no PRs/issues under my own handle here yet — my contributions have run through pair sessions committed under Giovanny's account. |
-| **[Nirium](https://github.com/Eras256/Nirium)** / [nirium](https://github.com/nirium-protocol/nirium) · [nirium.xyz](https://nirium.xyz) | Product, UX, and shipped code | Autonomous treasury and x402/MPP payments on Stellar. Two merged PRs above — my first shipped code on this portfolio. |
+| **[Nirium](https://github.com/Eras256/Nirium)** / [nirium](https://github.com/nirium-protocol/nirium) · [nirium.xyz](https://nirium.xyz) | Product, UX, and shipped code | Autonomous treasury and x402/MPP payments on Stellar. Five merged PRs above — my first shipped code on this portfolio. |
 | **[Contextio](https://github.com/contextio/Contextio)** · [contextio.xyz](https://contextio.xyz) | Product & UX | AI agent moving treasury/payroll funds for LatAm SMEs, bound to a verifiable Legal Context Protocol document. Cofounded; contributions so far are design & strategy pair sessions, not commits under my handle. |
 
 ---
