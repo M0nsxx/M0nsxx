@@ -65,7 +65,7 @@ closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 | Project | My role | Notes |
 | --- | --- | --- |
 | **[Kumply](https://github.com/kumplyprotocol/Kumply)** · [kumply.xyz](https://kumply.xyz) | UX/UI | On-chain KYC/KYB/KYA compliance attestations on Avalanche. Currently under review for Avalanche's Team1 Mini Grants. No commits under my handle yet — same honest disclosure as above. |
-| **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | UX/UI | x402-metered on-chain risk intelligence for agents on Base. Currently under review for Base Batches. Source repo is private. |
+| **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | UX/UI | x402-metered on-chain risk intelligence for agents on Base. Currently under review for Base Batches. Source at [`Vouch402/Vouchx402`](https://github.com/Vouch402/Vouchx402), now public. |
 | **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | UX/UI | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. Built through two Colosseum hackathon cycles: [Prova](https://colosseum.com/arena/projects/explore/prova-1), and earlier [Oraculo](https://colosseum.com/arena/projects/explore/oraculo) at the Solana Cypherpunk Hackathon (Sep-Oct 2025), plus WayLearn's Solana Foundation-backed Solana Latam Labs Program (Jun-Aug 2026), taking 1st place in Mexico at the Dev3Pack Global Hackathon along the way. Applied for a Superteam/Solana Foundation scholarship to attend Breakpoint 2026 — decision pending. |
 | **[Periplo](https://github.com/Eras256/Periplo)** · [periplo.xyz](https://periplo.xyz) | UX/UI | x402 payment facilitator for Stellar with a "Bazaar" discovery catalog. Cofounded; no PRs/issues under my own handle here yet — my contributions have run through pair sessions committed under Giovanny's account. |
 | **[Nirium](https://github.com/Eras256/Nirium)** / [nirium](https://github.com/nirium-protocol/nirium) · [nirium.xyz](https://nirium.xyz) | Backend dev, UX/UI | Autonomous treasury and x402/MPP payments on Stellar. Five merged PRs above — my first shipped code on this portfolio. |
@@ -98,6 +98,7 @@ features (flash loans, ELO reputation, on-chain marketplace) that are
 
 ## Outside the portfolio
 
+- **[ActivaChain](https://activachain.com)** — won ETH Uruguay 2025, cofounded with [Giovanny](https://github.com/Eras256). No public results page to link; noted here as self-reported.
 - **[PakalFi](https://github.com/M0nsxx/PakalFi)** — DeFi project, Monad Mobil3 hackathon (CDMX).
 - **[x402-Shield](https://github.com/M0nsxx/x402-Shield-)** — DDoS/Sybil defense via HTTP 402 micropayments (Solana).
 
