@@ -20,7 +20,7 @@ padded to look like something it isn't.
 
 ## Verified contributions
 
-### Merged PRs — [`nirium-protocol/nirium-sdk`](https://github.com/nirium-protocol/nirium-sdk)
+### Merged PRs — [`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium)
 
 My own shipped code, not a design contribution described in code terms —
 both authored by me, merged by [@Eras256](https://github.com/Eras256), each
@@ -28,8 +28,8 @@ closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 
 | PR | Closes | Title | Merged |
 | --- | --- | --- | --- |
-| [#61](https://github.com/nirium-protocol/nirium-sdk/pull/61) | [#45](https://github.com/nirium-protocol/nirium-sdk/issues/45) | Resilient reconnecting WebSocket signals client | 2026-08-25 |
-| [#62](https://github.com/nirium-protocol/nirium-sdk/pull/62) | [#44](https://github.com/nirium-protocol/nirium-sdk/issues/44) | CLI `pay` and `serve` commands for x402 | 2026-08-26 |
+| [#61](https://github.com/nirium-protocol/nirium/pull/61) | [#45](https://github.com/nirium-protocol/nirium/issues/45) | Resilient reconnecting WebSocket signals client | 2026-08-25 |
+| [#62](https://github.com/nirium-protocol/nirium/pull/62) | [#44](https://github.com/nirium-protocol/nirium/issues/44) | CLI `pay` and `serve` commands for x402 | 2026-08-26 |
 
 ---
 
@@ -40,7 +40,7 @@ closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 | **[Kumply](https://github.com/kumplyprotocol/Kumply)** · [kumply.xyz](https://kumply.xyz) | Product, UX, marketing | On-chain KYC/KYB/KYA compliance attestations on Avalanche. Currently under review for Avalanche's Team1 Mini Grants. No commits under my handle yet — same honest disclosure as above. |
 | **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | Product, UX, marketing | x402-metered on-chain risk intelligence for agents on Base. Currently under review for Base Batches. Source repo is private. |
 | **[Periplo](https://github.com/Eras256/Periplo)** · [periplo.xyz](https://periplo.xyz) | Product & UX | x402 payment facilitator for Stellar with a "Bazaar" discovery catalog. Cofounded; no PRs/issues under my own handle here yet — my contributions have run through pair sessions committed under Giovanny's account. |
-| **[Nirium](https://github.com/Eras256/Nirium)** / [nirium-sdk](https://github.com/nirium-protocol/nirium-sdk) · [nirium.xyz](https://nirium.xyz) | Product, UX, and shipped code | Autonomous treasury and x402/MPP payments on Stellar. Two merged PRs above — my first shipped code on this portfolio. |
+| **[Nirium](https://github.com/Eras256/Nirium)** / [nirium](https://github.com/nirium-protocol/nirium) · [nirium.xyz](https://nirium.xyz) | Product, UX, and shipped code | Autonomous treasury and x402/MPP payments on Stellar. Two merged PRs above — my first shipped code on this portfolio. |
 | **[Contextio](https://github.com/contextio/Contextio)** · [contextio.xyz](https://contextio.xyz) | Product & UX | AI agent moving treasury/payroll funds for LatAm SMEs, bound to a verifiable Legal Context Protocol document. Cofounded; contributions so far are design & strategy pair sessions, not commits under my handle. |
 | **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | Product, UX, marketing | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. |
 
@@ -65,7 +65,7 @@ invocation on testnet.
 Created 2026-03-21, last touched the same day. Describes early-vision
 features (flash loans, ELO reputation, on-chain marketplace) that are
 **not the current Nirium product** — the active codebase lives at
-[`nirium-protocol/nirium-sdk`](https://github.com/nirium-protocol/nirium-sdk).
+[`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium).
 
 ---
 
