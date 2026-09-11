@@ -18,6 +18,26 @@ padded to look like something it isn't.
 
 ---
 
+## Highlights
+
+Skip the rest if you only have 90 seconds:
+
+- **Two merged PRs in [`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium)** —
+  my own shipped code, not a design contribution described in code
+  terms: [#61](https://github.com/nirium-protocol/nirium/pull/61)
+  (resilient reconnecting WebSocket signals client) and
+  [#62](https://github.com/nirium-protocol/nirium/pull/62) (CLI
+  `pay`/`serve` commands for x402), each closing a real GrantFox bounty
+  issue, merged by [@Eras256](https://github.com/Eras256).
+- **Prova (cofounded) took 1st place in Mexico at the Dev3Pack Global
+  Hackathon** and graduated WayLearn's Solana Foundation-backed Solana
+  Latam Labs Program — full detail and links in the Prova row below.
+- **Where I haven't personally shipped code, this profile says so
+  plainly** instead of implying otherwise — the honesty standard applies
+  to my own side of the work too, not just Giovanny's.
+
+---
+
 ## Verified contributions
 
 ### Merged PRs — [`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium)
