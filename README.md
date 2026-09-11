@@ -1,8 +1,9 @@
 # Monserrat Mendoza (`M0nsxx`)
 
 Cofounder, with [Giovanny](https://github.com/Eras256), of six projects
-across four chains — UX/UI across every one of them, and backend dev
-too (five merged PRs, detail below).
+across four chains — backend dev and UX/UI. Five merged PRs of real
+shipped code so far (detail below), UX/UI work across the whole
+portfolio.
 
 | Project(s) | Chain | Why there |
 | --- | --- | --- |
