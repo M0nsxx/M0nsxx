@@ -22,10 +22,6 @@ padded to look like something it isn't.
 
 Skip the rest if you only have 90 seconds:
 
-- **Three real applications currently under review, decisions pending on
-  all three, none claimed as awards here:** Kumply for Avalanche's Team1
-  Mini Grants, Vouch402 for Base Batches, and a Superteam/Solana
-  Foundation scholarship for Prova to attend Breakpoint 2026.
 - **Two merged PRs in [`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium)** —
   my own shipped code, not a design contribution described in code
   terms: [#61](https://github.com/nirium-protocol/nirium/pull/61)
