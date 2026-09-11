@@ -39,6 +39,10 @@ Skip the rest if you only have 90 seconds:
 - **Where I haven't personally shipped code, this profile says so
   plainly** instead of implying otherwise — the honesty standard applies
   to my own side of the work too, not just Giovanny's.
+- **Two hackathon wins outside this portfolio too, both with Giovanny,
+  both with a public tweet confirming them** — ActivaChain (ETH Uruguay
+  2025) and BioShield Insurance (FDA Track, DeSci Builders Hackathon
+  2025). Full detail near the bottom.
 
 ---
 
@@ -103,6 +107,13 @@ features (flash loans, ELO reputation, on-chain marketplace) that are
   [the event's own tweet](https://x.com/EthereumUruguay/status/1968785973749170227):
   "Felicitaciones @ActivaChain! Nos representarán en Devconnect" — the
   top prize was a ticket + travel to Devconnect (Nov 2025).
+- **[BioShield Insurance](https://bioshield-insurance.vercel.app/)** — won
+  the FDA Track at the DeSci Builders Hackathon (Gitcoin × Infinita City
+  × Próspera, Honduras, 2025), built with
+  [Giovanny](https://github.com/Eras256). Deployed across Solana, Base,
+  and Optimism. Self-reported — [his own
+  tweet](https://x.com/vaiossx/status/1972064428091924681) at the time,
+  not an organizer announcement.
 - **[PakalFi](https://github.com/M0nsxx/PakalFi)** — DeFi project, Monad Mobil3 hackathon (CDMX).
 - **[x402-Shield](https://github.com/M0nsxx/x402-Shield-)** — DDoS/Sybil defense via HTTP 402 micropayments (Solana).
 
