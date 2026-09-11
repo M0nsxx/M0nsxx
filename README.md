@@ -8,8 +8,8 @@ now shipping real code too (two merged PRs, detail below).
 | --- | --- | --- |
 | Kumply | Avalanche | Compliance for regulated institutions: purpose-built [Evergreen Subnets](https://www.avax.network/about/blog/avalanche-launches-evergreen-for-institutional-blockchain-deployments/) give KYC, permissioned validators, and controlled access |
 | Vouch402 | Base | Where the x402 agent-payment volume already is: an independent census puts [98.44% of all published x402 resources on Base](https://github.com/arturete58-sys/x402-observatory/blob/main/report-01-census.md) |
-| Periplo, Nirium, Contextio | Stellar | Payments: [$0.0007667 average transaction cost](https://stellar.org/) and 24/7 settlement, cheap enough for agent-scale micropayments, plus the SCF funding program this portfolio started in |
 | Prova | Solana | [Sub-second finality, ~$0.0004–0.0005 per transaction](https://solana.com/docs/core/fees) — the cost profile a high-frequency agent-receipt layer needs |
+| Periplo, Nirium, Contextio | Stellar | Payments: [$0.0007667 average transaction cost](https://stellar.org/) and 24/7 settlement, cheap enough for agent-scale micropayments, plus the SCF funding program this portfolio started in |
 
 I write this with the same rule Giovanny uses on his own profile: if a
 claim here can't be clicked and checked, it doesn't belong here. My role on
@@ -22,6 +22,10 @@ padded to look like something it isn't.
 
 Skip the rest if you only have 90 seconds:
 
+- **Three real applications currently under review, decisions pending on
+  all three, none claimed as awards here:** Kumply for Avalanche's Team1
+  Mini Grants, Vouch402 for Base Batches, and a Superteam/Solana
+  Foundation scholarship for Prova to attend Breakpoint 2026.
 - **Two merged PRs in [`nirium-protocol/nirium`](https://github.com/nirium-protocol/nirium)** —
   my own shipped code, not a design contribution described in code
   terms: [#61](https://github.com/nirium-protocol/nirium/pull/61)
@@ -59,7 +63,7 @@ closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 | --- | --- | --- |
 | **[Kumply](https://github.com/kumplyprotocol/Kumply)** · [kumply.xyz](https://kumply.xyz) | Product, UX, marketing | On-chain KYC/KYB/KYA compliance attestations on Avalanche. Currently under review for Avalanche's Team1 Mini Grants. No commits under my handle yet — same honest disclosure as above. |
 | **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | Product, UX, marketing | x402-metered on-chain risk intelligence for agents on Base. Currently under review for Base Batches. Source repo is private. |
-| **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | Product, UX, marketing | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. Built through two Colosseum hackathon cycles: [Prova](https://colosseum.com/arena/projects/explore/prova-1), and earlier [Oraculo](https://colosseum.com/arena/projects/explore/oraculo) at the Solana Cypherpunk Hackathon (Sep-Oct 2025), plus WayLearn's Solana Foundation-backed Solana Latam Labs Program (Jun-Aug 2026), taking 1st place in Mexico at the Dev3Pack Global Hackathon along the way. |
+| **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | Product, UX, marketing | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. Built through two Colosseum hackathon cycles: [Prova](https://colosseum.com/arena/projects/explore/prova-1), and earlier [Oraculo](https://colosseum.com/arena/projects/explore/oraculo) at the Solana Cypherpunk Hackathon (Sep-Oct 2025), plus WayLearn's Solana Foundation-backed Solana Latam Labs Program (Jun-Aug 2026), taking 1st place in Mexico at the Dev3Pack Global Hackathon along the way. Applied for a Superteam/Solana Foundation scholarship to attend Breakpoint 2026 — decision pending. |
 | **[Periplo](https://github.com/Eras256/Periplo)** · [periplo.xyz](https://periplo.xyz) | Product & UX | x402 payment facilitator for Stellar with a "Bazaar" discovery catalog. Cofounded; no PRs/issues under my own handle here yet — my contributions have run through pair sessions committed under Giovanny's account. |
 | **[Nirium](https://github.com/Eras256/Nirium)** / [nirium](https://github.com/nirium-protocol/nirium) · [nirium.xyz](https://nirium.xyz) | Product, UX, and shipped code | Autonomous treasury and x402/MPP payments on Stellar. Two merged PRs above — my first shipped code on this portfolio. |
 | **[Contextio](https://github.com/contextio/Contextio)** · [contextio.xyz](https://contextio.xyz) | Product & UX | AI agent moving treasury/payroll funds for LatAm SMEs, bound to a verifiable Legal Context Protocol document. Cofounded; contributions so far are design & strategy pair sessions, not commits under my handle. |
