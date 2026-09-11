@@ -6,9 +6,9 @@ now shipping real code too (two merged PRs, detail below).
 
 | Project(s) | Chain | Why there |
 | --- | --- | --- |
-| Periplo, Nirium, Contextio | Stellar | Payments: [$0.0007667 average transaction cost](https://stellar.org/) and 24/7 settlement, cheap enough for agent-scale micropayments, plus the SCF funding program this portfolio started in |
 | Kumply | Avalanche | Compliance for regulated institutions: purpose-built [Evergreen Subnets](https://www.avax.network/about/blog/avalanche-launches-evergreen-for-institutional-blockchain-deployments/) give KYC, permissioned validators, and controlled access |
 | Vouch402 | Base | Where the x402 agent-payment volume already is: an independent census puts [98.44% of all published x402 resources on Base](https://github.com/arturete58-sys/x402-observatory/blob/main/report-01-census.md) |
+| Periplo, Nirium, Contextio | Stellar | Payments: [$0.0007667 average transaction cost](https://stellar.org/) and 24/7 settlement, cheap enough for agent-scale micropayments, plus the SCF funding program this portfolio started in |
 | Prova | Solana | [Sub-second finality, ~$0.0004–0.0005 per transaction](https://solana.com/docs/core/fees) — the cost profile a high-frequency agent-receipt layer needs |
 
 I write this with the same rule Giovanny uses on his own profile: if a
@@ -37,11 +37,11 @@ closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 
 | Project | My role | Notes |
 | --- | --- | --- |
+| **[Kumply](https://github.com/kumplyprotocol/Kumply)** · [kumply.xyz](https://kumply.xyz) | Product, UX, marketing | On-chain KYC/KYB/KYA compliance attestations on Avalanche. Currently under review for Avalanche's Team1 Mini Grants. No commits under my handle yet — same honest disclosure as above. |
+| **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | Product, UX, marketing | x402-metered on-chain risk intelligence for agents on Base. Currently under review for Base Batches. Source repo is private. |
 | **[Periplo](https://github.com/Eras256/Periplo)** · [periplo.xyz](https://periplo.xyz) | Product & UX | x402 payment facilitator for Stellar with a "Bazaar" discovery catalog. Cofounded; no PRs/issues under my own handle here yet — my contributions have run through pair sessions committed under Giovanny's account. |
 | **[Nirium](https://github.com/Eras256/Nirium)** / [nirium-sdk](https://github.com/nirium-protocol/nirium-sdk) · [nirium.xyz](https://nirium.xyz) | Product, UX, and shipped code | Autonomous treasury and x402/MPP payments on Stellar. Two merged PRs above — my first shipped code on this portfolio. |
 | **[Contextio](https://github.com/contextio/Contextio)** · [contextio.xyz](https://contextio.xyz) | Product & UX | AI agent moving treasury/payroll funds for LatAm SMEs, bound to a verifiable Legal Context Protocol document. Cofounded; contributions so far are design & strategy pair sessions, not commits under my handle. |
-| **[Kumply](https://github.com/kumplyprotocol/Kumply)** · [kumply.xyz](https://kumply.xyz) | Product, UX, marketing | On-chain KYC/KYB/KYA compliance attestations on Avalanche. No commits under my handle yet — same honest disclosure as above. |
-| **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | Product, UX, marketing | x402-metered on-chain risk intelligence for agents on Base. Source repo is private. |
 | **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | Product, UX, marketing | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. |
 
 ---
@@ -78,10 +78,10 @@ features (flash loans, ELO reputation, on-chain marketplace) that are
 
 ## Stack
 
-![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)
-![Soroban](https://img.shields.io/badge/Soroban-1f6feb?style=flat-square)
 ![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square&logo=avalanche&logoColor=white)
 ![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)
+![Soroban](https://img.shields.io/badge/Soroban-1f6feb?style=flat-square)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![x402](https://img.shields.io/badge/x402-teal?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
