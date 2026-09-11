@@ -98,7 +98,11 @@ features (flash loans, ELO reputation, on-chain marketplace) that are
 
 ## Outside the portfolio
 
-- **[ActivaChain](https://activachain.com)** — won ETH Uruguay 2025, cofounded with [Giovanny](https://github.com/Eras256). No public results page to link; noted here as self-reported.
+- **[ActivaChain](https://activachain.com)** — won ETH Uruguay 2025,
+  cofounded with [Giovanny](https://github.com/Eras256). Confirmed by
+  [the event's own tweet](https://x.com/EthereumUruguay/status/1968785973749170227):
+  "Felicitaciones @ActivaChain! Nos representarán en Devconnect" — the
+  top prize was a ticket + travel to Devconnect (Nov 2025).
 - **[PakalFi](https://github.com/M0nsxx/PakalFi)** — DeFi project, Monad Mobil3 hackathon (CDMX).
 - **[x402-Shield](https://github.com/M0nsxx/x402-Shield-)** — DDoS/Sybil defense via HTTP 402 micropayments (Solana).
 
