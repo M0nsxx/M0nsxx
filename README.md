@@ -12,10 +12,12 @@ too (five merged PRs, detail below).
 | Periplo, Nirium, Contextio | Stellar | Payments: [$0.0007667 average transaction cost](https://stellar.org/) and 24/7 settlement, cheap enough for agent-scale micropayments, plus the SCF funding program this portfolio started in |
 
 I write this with the same rule Giovanny uses on his own profile: if a
-claim here can't be clicked and checked, it doesn't belong here. My role on
-most of these is UX/UI, not commits — Nirium is the exception, where I
-ship backend code too. Stated as that, not padded to look like something
-it isn't.
+claim here can't be clicked and checked, it doesn't belong here. I'm a
+backend dev and UX/UI by background, not just UX/UI — but most of these
+projects haven't needed my code yet, so my visible contribution there is
+still UX/UI, not commits. Nirium is the one place that's shown up in
+actual merged PRs so far (five of them). Stated as that, not padded to
+look like something it isn't.
 
 ---
 
