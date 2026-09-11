@@ -42,7 +42,7 @@ closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 | **[Periplo](https://github.com/Eras256/Periplo)** · [periplo.xyz](https://periplo.xyz) | Product & UX | x402 payment facilitator for Stellar with a "Bazaar" discovery catalog. Cofounded; no PRs/issues under my own handle here yet — my contributions have run through pair sessions committed under Giovanny's account. |
 | **[Nirium](https://github.com/Eras256/Nirium)** / [nirium](https://github.com/nirium-protocol/nirium) · [nirium.xyz](https://nirium.xyz) | Product, UX, and shipped code | Autonomous treasury and x402/MPP payments on Stellar. Two merged PRs above — my first shipped code on this portfolio. |
 | **[Contextio](https://github.com/contextio/Contextio)** · [contextio.xyz](https://contextio.xyz) | Product & UX | AI agent moving treasury/payroll funds for LatAm SMEs, bound to a verifiable Legal Context Protocol document. Cofounded; contributions so far are design & strategy pair sessions, not commits under my handle. |
-| **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | Product, UX, marketing | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. |
+| **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | Product, UX, marketing | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. Grew out of the Solana Cypherpunk Hackathon ([Oraculo](https://colosseum.com/arena/projects/explore/oraculo), Sep-Oct 2025) and WayLearn's Solana Foundation-backed Solana Latam Labs Program (Jun-Aug 2026), taking 1st place in Mexico at the Dev3Pack Global Hackathon along the way. |
 
 ---
 
