@@ -1,9 +1,9 @@
 # Monserrat Mendoza (`M0nsxx`)
 
 Cofounder, with [Giovanny](https://github.com/Eras256), of six projects
-across four chains — backend dev and UX/UI. Five merged PRs of real
-shipped code so far (detail below), UX/UI work across the whole
-portfolio.
+across four chains — backend dev and UX/UI. Five merged PRs in Nirium
+plus three real fixes shipped directly in Kumply and Vouch402 (detail
+below), UX/UI work across the whole portfolio.
 
 | Project(s) | Chain | Why there |
 | --- | --- | --- |
@@ -14,11 +14,12 @@ portfolio.
 
 I write this with the same rule Giovanny uses on his own profile: if a
 claim here can't be clicked and checked, it doesn't belong here. I'm a
-backend dev and UX/UI by background, not just UX/UI — but most of these
-projects haven't needed my code yet, so my visible contribution there is
-still UX/UI, not commits. Nirium is the one place that's shown up in
-actual merged PRs so far (five of them). Stated as that, not padded to
-look like something it isn't.
+backend dev and UX/UI by background, not just UX/UI — Nirium has five
+merged PRs, and Kumply/Vouch402 now each have real fixes I shipped
+directly (address validation before paid/on-chain calls, detail below).
+Periplo and Contextio still haven't needed my code, so my visible
+contribution there is still UX/UI, not commits. Stated as that, not
+padded to look like something it isn't.
 
 ---
 
@@ -34,6 +35,10 @@ Skip the rest if you only have 90 seconds:
   standalone offline audit-CID/Ed25519 attestation verifier. Each closes
   a real GrantFox bounty issue, all merged by [@Eras256](https://github.com/Eras256) —
   full table below.
+- **Three real fixes shipped directly in Kumply and Vouch402** — the
+  same address-validation gap (no `isAddress()` check before an
+  on-chain read or a paid x402 request), fixed in both repos with my
+  own commits, verified signatures. Full detail below.
 - **Prova (cofounded) took 1st place in Mexico at the Dev3Pack Global
   Hackathon** and graduated WayLearn's Solana Foundation-backed Solana
   Latam Labs Program — full detail and links in the Prova row below.
@@ -63,14 +68,26 @@ closing a [GrantFox OSS](https://grantfox.io) bounty issue.
 | [#60](https://github.com/nirium-protocol/nirium/pull/60) | [#38](https://github.com/nirium-protocol/nirium/issues/38) | Standalone offline audit-CID + Ed25519 attestation verifier | 2026-08-26 |
 | [#62](https://github.com/nirium-protocol/nirium/pull/62) | [#44](https://github.com/nirium-protocol/nirium/issues/44) | CLI `pay` and `serve` commands for x402 | 2026-08-26 |
 
+### Direct fixes — Kumply and Vouch402
+
+No PR review flow on these — direct commits to the default branch,
+each one closing its issue by commit message. Verified signatures on
+all three.
+
+| Commit | Closes | Title | Date |
+| --- | --- | --- | --- |
+| [`49177e0`](https://github.com/kumplyprotocol/Kumply/commit/49177e0ade1c673e0267a8686f54f10b585c05ff) | [Kumply#1](https://github.com/kumplyprotocol/Kumply/issues/1) | SDK: validate address before `readContract` | 2026-09-12 |
+| [`e08117d`](https://github.com/Vouch402/Vouchx402/commit/e08117de287c2e3f1fcfa57a23512e3c00ca7125) | [Vouch402#1](https://github.com/Vouch402/Vouchx402/issues/1), [#3](https://github.com/Vouch402/Vouchx402/issues/3) | CLI: validate address before a paid request, fix `--help` falling through to the paid flow | 2026-09-12 |
+| [`1ac4d03`](https://github.com/Vouch402/Vouchx402/commit/1ac4d03261f5a6f3a7632b643a21c368c1869910) | [Vouch402#2](https://github.com/Vouch402/Vouchx402/issues/2) | MCP server: reject malformed addresses at the tool schema layer | 2026-09-12 |
+
 ---
 
 ## What I work on
 
 | Project | My role | Notes |
 | --- | --- | --- |
-| **[Kumply](https://github.com/kumplyprotocol/Kumply)** · [kumply.xyz](https://kumply.xyz) | UX/UI | On-chain KYC/KYB/KYA compliance attestations on Avalanche. Currently under review for Avalanche's Team1 Mini Grants. No commits under my handle yet — same honest disclosure as above. |
-| **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | UX/UI | x402-metered on-chain risk intelligence for agents on Base. Currently under review for Base Batches. Source at [`Vouch402/Vouchx402`](https://github.com/Vouch402/Vouchx402), now public. |
+| **[Kumply](https://github.com/kumplyprotocol/Kumply)** · [kumply.xyz](https://kumply.xyz) | UX/UI, backend dev | On-chain KYC/KYB/KYA compliance attestations on Avalanche. Currently under review for Avalanche's Team1 Mini Grants. One real fix shipped directly (detail above). |
+| **Vouch402** · [vouch402.xyz](https://www.vouch402.xyz) | UX/UI, backend dev | x402-metered on-chain risk intelligence for agents on Base. Currently under review for Base Batches. Source at [`Vouch402/Vouchx402`](https://github.com/Vouch402/Vouchx402), now public. Two real fixes shipped directly (detail above). |
 | **[Prova](https://github.com/Prova-Solana/Prova)** · [theprova.xyz](https://www.theprova.xyz) | UX/UI | Cryptographic on-chain receipts for AI agent actions on Solana. Solana devnet today, not mainnet. Built through two Colosseum hackathon cycles: [Prova](https://colosseum.com/arena/projects/explore/prova-1), and earlier [Oraculo](https://colosseum.com/arena/projects/explore/oraculo) at the Solana Cypherpunk Hackathon (Sep-Oct 2025), plus WayLearn's Solana Foundation-backed Solana Latam Labs Program (Jun-Aug 2026), taking 1st place in Mexico at the Dev3Pack Global Hackathon along the way. Applied for a Superteam/Solana Foundation scholarship to attend Breakpoint 2026 — decision pending. |
 | **[Periplo](https://github.com/Eras256/Periplo)** · [periplo.xyz](https://periplo.xyz) | UX/UI | x402 payment facilitator for Stellar with a "Bazaar" discovery catalog. Cofounded; no PRs/issues under my own handle here yet — my contributions have run through pair sessions committed under Giovanny's account. |
 | **[Nirium](https://github.com/Eras256/Nirium)** / [nirium](https://github.com/nirium-protocol/nirium) · [nirium.xyz](https://nirium.xyz) | Backend dev, UX/UI | Autonomous treasury and x402/MPP payments on Stellar. Five merged PRs above — my first shipped code on this portfolio. |
