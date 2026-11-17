@@ -60,7 +60,7 @@ Instawards, each paid on-chain
 
 ## Hackathons
 
-- **ActivaChain:** won ETH Uruguay 2025, with
+- **ActivaChain:** won ETH Uruguay 2025, in a team of six with
   [Giovanny](https://github.com/Eras256).
   [Announced](https://x.com/EthereumUruguay/status/1968785973749170227) by
   the event.
