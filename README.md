@@ -18,8 +18,8 @@ I co-founded it with [Giovanny Amador](https://github.com/Eras256).
   [`nirium-cli`](https://www.npmjs.com/package/nirium-cli),
   [`nirium-mcp`](https://www.npmjs.com/package/nirium-mcp) and
   [`nirium-pollar-adapter`](https://www.npmjs.com/package/nirium-pollar-adapter).
-- 91 commits and 30 merged pull requests in
-  [nirium-protocol/nirium](https://github.com/nirium-protocol/nirium):
+- 91 commits in [nirium-protocol/nirium](https://github.com/nirium-protocol/nirium)
+  and 30 merged pull requests across the nirium-protocol repos:
   [check the commit count](https://github.com/nirium-protocol/nirium/graphs/contributors),
   [check the merged PRs](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AM0nsxx%20org%3Anirium-protocol&type=pullrequests).
 
