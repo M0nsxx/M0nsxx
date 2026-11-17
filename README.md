@@ -1,10 +1,27 @@
 # Monserrat Mendoza (`M0nsxx`)
 
-Backend developer and UX/UI designer. I build tools for AI agents that pay
-for things: CLIs, SDK clients, verifiers, and the screens people use to
-check what an agent did.
+Co-founder of [Nirium](https://nirium.xyz). Backend developer and UX/UI
+designer. I build tools for AI agents that pay for things: CLIs, SDK
+clients, verifiers, and the screens people use to check what an agent did.
 
 Based in Mexico.
+
+## What I'm building
+
+**[Nirium](https://nirium.xyz):** payment, audit and execution rails on
+Stellar for apps, backends and AI agents. Charge or pay per request in USDC
+(x402) and leave a receipt anyone can verify.
+I co-founded it with [Giovanny Amador](https://github.com/Eras256).
+
+- Co-maintainer and npm publisher of all four packages:
+  [`nirium`](https://www.npmjs.com/package/nirium),
+  [`nirium-cli`](https://www.npmjs.com/package/nirium-cli),
+  [`nirium-mcp`](https://www.npmjs.com/package/nirium-mcp) and
+  [`nirium-pollar-adapter`](https://www.npmjs.com/package/nirium-pollar-adapter).
+- 91 commits and 30 merged pull requests in
+  [nirium-protocol/nirium](https://github.com/nirium-protocol/nirium):
+  [check the commit count](https://github.com/nirium-protocol/nirium/graphs/contributors),
+  [check the merged PRs](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AM0nsxx%20org%3Anirium-protocol&type=pullrequests).
 
 ## Open source, with links you can check
 
@@ -17,21 +34,20 @@ Based in Mexico.
   ([#61](https://github.com/nirium-protocol/nirium/pull/61), merged), and a
   one-click "Deploy to Vercel" template for an x402-protected API
   ([#58](https://github.com/nirium-protocol/nirium/pull/58), merged).
-- **Trustless Work:** a use case for a direct x402 payment without escrow,
-  verified with a live settlement, merged by their team
-  ([agentic-escrow-research#3](https://github.com/Trustless-Work/agentic-escrow-research/pull/3)).
-  Two research notes are open:
-  [#12](https://github.com/Trustless-Work/agentic-escrow-research/pull/12)
-  (pre-sign policy hook) and
-  [#13](https://github.com/Trustless-Work/agentic-escrow-research/pull/13)
-  (x402 and MPP Charge on one endpoint).
+- **Trustless Work, 3 merged by their team:** a use case for a direct x402
+  payment without escrow, verified with a live settlement
+  ([#3](https://github.com/Trustless-Work/agentic-escrow-research/pull/3)),
+  a pre-sign policy hook
+  ([#12](https://github.com/Trustless-Work/agentic-escrow-research/pull/12)),
+  and x402 and MPP Charge on one endpoint
+  ([#13](https://github.com/Trustless-Work/agentic-escrow-research/pull/13)).
 - **Address validation:** an SDK read the chain without checking the
   address first. Fixed with a signed commit
   ([`49177e0`](https://github.com/kumplyprotocol/Kumply/commit/49177e0ade1c673e0267a8686f54f10b585c05ff)).
 
 ## Hackathons
 
-- **[ActivaChain](https://activachain.com):** won ETH Uruguay 2025, with
+- **ActivaChain:** won ETH Uruguay 2025, with
   [Giovanny](https://github.com/Eras256).
   [Announced](https://x.com/EthereumUruguay/status/1968785973749170227) by
   the event.
