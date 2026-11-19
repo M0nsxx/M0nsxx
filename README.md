@@ -31,7 +31,9 @@ Instawards, each paid on-chain
   [`nirium-cli`](https://www.npmjs.com/package/nirium-cli),
   [`nirium-mcp`](https://www.npmjs.com/package/nirium-mcp) and
   [`nirium-pollar-adapter`](https://www.npmjs.com/package/nirium-pollar-adapter).
-- Published nirium-cli 3.2.5 and nirium-mcp 0.6.9 on 19 Nov 2026 (cli, mcp).
+- Published nirium-cli 3.2.5 and nirium-mcp 0.6.9 on 19 Nov 2026
+  ([cli](https://www.npmjs.com/package/nirium-cli/v/3.2.5),
+  [mcp](https://www.npmjs.com/package/nirium-mcp/v/0.6.9)).
 - 91 commits in [nirium-protocol/nirium](https://github.com/nirium-protocol/nirium)
   and 31 merged pull requests across the nirium-protocol repos:
   [check the commit count](https://github.com/nirium-protocol/nirium/graphs/contributors),
