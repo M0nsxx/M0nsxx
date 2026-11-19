@@ -18,15 +18,16 @@ early code, I designed the product, the site, the brand and the launch
 content, which is why my commit count is lower than his. Since August
 2026 I've moved into engineering, and today I'm Nirium's Dev Lead: I own
 the CLI, review the team's pull requests and co-publish the four npm
-packages. My merged PRs by month, as of 2026-11-19: Aug 5, Sep 1, Oct 7,
-Nov 18 so far ([check](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AM0nsxx%20org%3Anirium-protocol&type=pullrequests)).
+packages and the Python SDK on PyPI. My merged PRs by month, as of
+2026-11-19: Aug 5, Sep 1, Oct 7, Nov 18 so far
+([check](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AM0nsxx%20org%3Anirium-protocol&type=pullrequests)).
 
 I was part of the team behind both of Nirium's Stellar Community Fund
 Instawards, each paid on-chain
 ([May 2026](https://stellar.expert/explorer/public/tx/fd0f7469ae78b76ca5c4186cd7e1b24c081c407758a92cff3a56f376d01e91d1),
 [July 2026](https://stellar.expert/explorer/public/tx/7784ad6eb2b27ace75ce2fe4b7290fb1b8241da425331bfbda2e939b47759b7e)).
 
-- Co-maintainer and npm publisher of all four packages:
+- Co-owner and publisher of all four packages on npm, and of the Python SDK on PyPI:
   [`nirium`](https://www.npmjs.com/package/nirium),
   [`nirium-cli`](https://www.npmjs.com/package/nirium-cli),
   [`nirium-mcp`](https://www.npmjs.com/package/nirium-mcp) and
