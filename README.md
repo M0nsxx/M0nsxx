@@ -18,8 +18,8 @@ early code, I designed the product, the site, the brand and the launch
 content, which is why my commit count is lower than his. Since August
 2026 I've moved into engineering, and today I'm Nirium's Dev Lead: I own
 the CLI, review the team's pull requests and co-publish the four npm
-packages. My merged PRs by month, as of 2026-11-17: Aug 5, Sep 1, Oct 7,
-Nov 17 so far ([check](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AM0nsxx%20org%3Anirium-protocol&type=pullrequests)).
+packages. My merged PRs by month, as of 2026-11-19: Aug 5, Sep 1, Oct 7,
+Nov 18 so far ([check](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AM0nsxx%20org%3Anirium-protocol&type=pullrequests)).
 
 I was part of the team behind both of Nirium's Stellar Community Fund
 Instawards, each paid on-chain
@@ -31,6 +31,7 @@ Instawards, each paid on-chain
   [`nirium-cli`](https://www.npmjs.com/package/nirium-cli),
   [`nirium-mcp`](https://www.npmjs.com/package/nirium-mcp) and
   [`nirium-pollar-adapter`](https://www.npmjs.com/package/nirium-pollar-adapter).
+- Published nirium-cli 3.2.5 and nirium-mcp 0.6.9 on 19 Nov 2026 (cli, mcp).
 - 91 commits in [nirium-protocol/nirium](https://github.com/nirium-protocol/nirium)
   and 31 merged pull requests across the nirium-protocol repos:
   [check the commit count](https://github.com/nirium-protocol/nirium/graphs/contributors),
@@ -54,9 +55,6 @@ Instawards, each paid on-chain
   ([#12](https://github.com/Trustless-Work/agentic-escrow-research/pull/12)),
   and x402 and MPP Charge on one endpoint
   ([#13](https://github.com/Trustless-Work/agentic-escrow-research/pull/13)).
-- **Address validation:** an SDK read the chain without checking the
-  address first. Fixed with a signed commit
-  ([`49177e0`](https://github.com/kumplyprotocol/Kumply/commit/49177e0ade1c673e0267a8686f54f10b585c05ff)).
 
 ## Hackathons
 
