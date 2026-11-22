@@ -76,10 +76,9 @@ Instawards, each paid on-chain
 ## Hackathons
 
 - **Sui Loop:** 3rd place at the FinTech World Cup México 2026 national
-  qualifiers (March 2026), behind Linko and Network Bank, with
-  [Giovanny](https://github.com/Eras256). Source:
-  [a press article](https://ecosistemastartup.com/?p=69334), not an
-  organizer announcement.
+  qualifiers (March 2026), behind Linko and Network Bank, with Giovanny.
+  [Reported](https://ecosistemastartup.com/?p=69334) by the press. The project
+  has been paused since March 2026.
 - **ActivaChain:** won ETH Uruguay 2025, in a team of six with
   [Giovanny](https://github.com/Eras256).
   [Announced](https://x.com/EthereumUruguay/status/1968785973749170227) by
