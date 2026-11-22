@@ -19,7 +19,8 @@ content, which is why my commit count is lower than his. Since August
 2026 I've moved into engineering, and today I'm Nirium's Dev Lead: I own
 the CLI, review the team's pull requests and co-publish the four npm
 packages and the Python SDK on PyPI. My merged PRs by month, as of
-2026-11-19: Aug 5, Sep 1, Oct 7, Nov 18 so far
+2026-11-22: Aug 5, Sep 1, Oct 7, Nov 20 so far. I counted them with the
+GitHub pulls API; the search link can miss some
 ([check](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AM0nsxx%20org%3Anirium-protocol&type=pullrequests)).
 
 I was part of the team behind both of Nirium's Stellar Community Fund
@@ -36,9 +37,19 @@ Instawards, each paid on-chain
   ([cli](https://www.npmjs.com/package/nirium-cli/v/3.2.5),
   [mcp](https://www.npmjs.com/package/nirium-mcp/v/0.6.9)).
 - 91 commits in [nirium-protocol/nirium](https://github.com/nirium-protocol/nirium)
-  and 31 merged pull requests across the nirium-protocol repos:
+  and 33 merged pull requests across the nirium-protocol repos:
   [check the commit count](https://github.com/nirium-protocol/nirium/graphs/contributors),
   [check the merged PRs](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AM0nsxx%20org%3Anirium-protocol&type=pullrequests).
+- As a maintainer of nirium-protocol/nirium, I merged 15 pull requests
+  from outside contributors, from Stellar Wave on Drips and from GrantFox.
+  They are listed on [nirium.xyz/stats](https://nirium.xyz/stats).
+- In November I shipped the full review of nirium.xyz: 8 PRs I opened,
+  all merged. They cover the agent, receipt verification in the browser,
+  the legal pages, the site copy and navigation. Seven live in our private
+  repo, and the public mirror shows them:
+  [nirium-core#96](https://github.com/nirium-protocol/nirium-core/pull/96).
+  The eighth fixes the daily stats snapshot:
+  [status#3](https://github.com/nirium-protocol/status/pull/3).
 
 ## Open source, with links you can check
 
@@ -58,6 +69,12 @@ Instawards, each paid on-chain
   ([#12](https://github.com/Trustless-Work/agentic-escrow-research/pull/12)),
   and x402 and MPP Charge on one endpoint
   ([#13](https://github.com/Trustless-Work/agentic-escrow-research/pull/13)).
+
+## Teaching
+
+- **Código 402:** a free bootcamp in Spanish that I give with
+  [Giovanny](https://github.com/Eras256) and BAF, about AI agents that
+  pay. [Read about it](https://nirium.xyz/blog/codigo-402-agentes-que-pagan).
 
 ## Hackathons
 
