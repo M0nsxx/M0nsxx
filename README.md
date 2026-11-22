@@ -33,9 +33,11 @@ Instawards, each paid on-chain
   [`nirium-cli`](https://www.npmjs.com/package/nirium-cli),
   [`nirium-mcp`](https://www.npmjs.com/package/nirium-mcp) and
   [`nirium-pollar-adapter`](https://www.npmjs.com/package/nirium-pollar-adapter).
-- Published nirium-cli 3.2.5 and nirium-mcp 0.6.9 on 19 Nov 2026
-  ([cli](https://www.npmjs.com/package/nirium-cli/v/3.2.5),
-  [mcp](https://www.npmjs.com/package/nirium-mcp/v/0.6.9)).
+- Published nirium 0.19.8, nirium-mcp 0.6.11 and nirium-pollar-adapter 0.6.6
+  on 22 Nov 2026
+  ([nirium](https://www.npmjs.com/package/nirium/v/0.19.8),
+  [mcp](https://www.npmjs.com/package/nirium-mcp/v/0.6.11),
+  [pollar-adapter](https://www.npmjs.com/package/nirium-pollar-adapter/v/0.6.6)).
 - 91 commits in [nirium-protocol/nirium](https://github.com/nirium-protocol/nirium)
   and 33 merged pull requests across the nirium-protocol repos:
   [check the commit count](https://github.com/nirium-protocol/nirium/graphs/contributors),
@@ -46,8 +48,9 @@ Instawards, each paid on-chain
 - In November I shipped the full review of nirium.xyz: 8 PRs I opened,
   all merged. They cover the agent, receipt verification in the browser,
   the legal pages, the site copy and navigation. Seven live in our private
-  repo, and the public mirror shows them:
+  repo; the six that touch the site are in the public mirror:
   [nirium-core#96](https://github.com/nirium-protocol/nirium-core/pull/96).
+  The agent one stays private.
   The eighth fixes the daily stats snapshot:
   [status#3](https://github.com/nirium-protocol/status/pull/3).
 
@@ -69,12 +72,6 @@ Instawards, each paid on-chain
   ([#12](https://github.com/Trustless-Work/agentic-escrow-research/pull/12)),
   and x402 and MPP Charge on one endpoint
   ([#13](https://github.com/Trustless-Work/agentic-escrow-research/pull/13)).
-
-## Teaching
-
-- **Código 402:** a free bootcamp in Spanish that I give with
-  [Giovanny](https://github.com/Eras256) and BAF, about AI agents that
-  pay. [Read about it](https://nirium.xyz/blog/codigo-402-agentes-que-pagan).
 
 ## Hackathons
 
